@@ -55,4 +55,4 @@
 
         sort($array); //Esta funcion ordena los elementos de un array en orden ascendente, devuelve true si el array se ordeno correctamente o false si no se pudo ordenar.
 
-        
+        rsort($array); //Esta funcion ordena los elementos de un array en orden descendente, devuelve true si el array se ordeno correctamente o false si no se pudo ordenar.
