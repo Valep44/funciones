@@ -23,3 +23,5 @@
         password_verify("1234", $hash); //Esta funcion verifica si una contraseña coincide con un hash, devuelve true o false.
 
         filter_var("user@example.com", FILTER_VALIDATE_EMAIL); //Esta funcion sirve para va;idar datos, en este caso valida si el correo es correcto, devuelve el valor filtrado o false si no es valido.
+
+        header("Location: http://www.example.com"); //Esta funcion redirige a otra pagina.
