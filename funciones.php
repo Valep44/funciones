@@ -15,3 +15,7 @@
         str_replace("Dias","Tardes", "Buenos Dias"); //Esta funcion reemplaza texto dentro de una cadena, devuelve la cadena modificada.
 
         count(["elemento1", "elemento2"]); //Cuenta los elementos de un array, devuelve un entero.
+
+        date("Y-m-d"); //Esta funcion devuelve la fecha actual en el formato especificado, ya sea dia, mes, año o el el formato deseado.
+
+       
