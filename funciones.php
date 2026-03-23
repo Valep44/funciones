@@ -18,4 +18,4 @@
 
         date("Y-m-d"); //Esta funcion devuelve la fecha actual en el formato especificado, ya sea dia, mes, año o el el formato deseado.
 
-       
+        password_hash("1234", PASSWORD_DEFAULT); //Esta funcion crea un hash de una contraseña utilizando un algoritmo de encriptacion, devuelve el hash generado.
