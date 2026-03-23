@@ -42,3 +42,5 @@
         strtoupper("hola"); //Esta funcion convierte una cadena a mayusculas, devuelve la cadena modificada.
 
         implode("-", ["a","b","c"]); //Esta funcion une los elementos de un array en una cadena, devuelve la cadena resultante, "a-b-c".
+
+        trim("  Hola  "); //Esta funcion elimina los espacios en blanco al inicio y al final de una cadena, devuelve la cadena modificada, "Hola".  
