@@ -30,3 +30,7 @@
 
         json_encode(["nombre" => "Juan"]); //Esta funcion convierte un array o un objeto en una cadena JSON, devuelve la cadena JSON resultante.
         //JSON significa JavaScript Object Notation. Es un formato de texto que se usa para guardar y enviar datos.
+
+        json_decode('{"nombre": "Juan"}', true); //Esta funcion convierte una cadena JSON en un array o un objeto, devuelve el array o el objeto resultante.
+
+        
