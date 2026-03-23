@@ -3,4 +3,6 @@
         echo (); //Esta funcion muestra texto en pantalla.
 
         isset(); //Esta funcion verifica si una variable esta definida o no, devuelve true o false.
+
+        empty(); //Esta funcion verifica si una variable esta vacia o no, devuelve true o false.
         
