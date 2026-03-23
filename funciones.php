@@ -50,3 +50,5 @@
         array_merge([1,2], [3,4]); //Esta funcion fusiona uno o mas arrays, devuelve el array resultante, [1,2,3,4].
 
         in_array(2, [1,2,3]); //Esta funcion verifica si un valor existe en un array, devuelve true o false.
+
+        abs(-5); //Esta funcion devuelve el valor absoluto de un numero, devuelve 5.
