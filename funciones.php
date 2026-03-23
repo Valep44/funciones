@@ -40,4 +40,5 @@
         strtolower("HOLA"); //Esta funcion convierte una cadena a minusculas, devuelve la cadena modificada.    
 
         strtoupper("hola"); //Esta funcion convierte una cadena a mayusculas, devuelve la cadena modificada.
-        
+
+        implode("-", ["a","b","c"]); //Esta funcion une los elementos de un array en una cadena, devuelve la cadena resultante, "a-b-c".
