@@ -46,3 +46,6 @@
         trim("  Hola  "); //Esta funcion elimina los espacios en blanco al inicio y al final de una cadena, devuelve la cadena modificada, "Hola".
         
         array_pop($array); //Esta funcion elimina el ultimo elemento de un array y lo devuelve, si el array esta vacio devuelve null.
+
+        array_merge([1,2], [3,4]); //Esta funcion fusiona uno o mas arrays, devuelve el array resultante, [1,2,3,4].
+        
