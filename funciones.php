@@ -52,3 +52,7 @@
         in_array(2, [1,2,3]); //Esta funcion verifica si un valor existe en un array, devuelve true o false.
 
         abs(-5); //Esta funcion devuelve el valor absoluto de un numero, devuelve 5.
+
+        sort($array); //Esta funcion ordena los elementos de un array en orden ascendente, devuelve true si el array se ordeno correctamente o false si no se pudo ordenar.
+
+        
