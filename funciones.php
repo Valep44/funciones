@@ -27,3 +27,6 @@
         header("Location: http://www.example.com"); //Esta funcion redirige a otra pagina.
 
         session_start(); //Esta funcion inicia una nueva sesion o reanuda una sesion existente, devuelve true si la sesion se inicio correctamente o false si no se pudo iniciar.
+
+        json_encode(["nombre" => "Juan"]); //Esta funcion convierte un array o un objeto en una cadena JSON, devuelve la cadena JSON resultante.
+        //JSON significa JavaScript Object Notation. Es un formato de texto que se usa para guardar y enviar datos.
