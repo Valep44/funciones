@@ -36,3 +36,6 @@
         include"archivo.php"; //Esta funcion incluye y evalua el archivo especificado, devuelve true si el archivo se incluyo correctamente o false si no se pudo incluir.
 
         array_push($array, "nuevo elemento"); //Esta funcion agrega uno o mas elementos al final de un array, devuelve el nuevo numero de elementos en el array.
+
+        strtolower("HOLA"); //Esta funcion convierte una cadena a minusculas, devuelve la cadena modificada.    
+        
