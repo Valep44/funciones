@@ -13,3 +13,5 @@
         strpos("",""); //Esta funcion busca texto dentro de otro, devuelve la posicion de la primera ocurrencia o false si no se encuentra.
 
         str_replace("Dias","Tardes", "Buenos Dias"); //Esta funcion reemplaza texto dentro de una cadena, devuelve la cadena modificada.
+
+        count(["elemento1", "elemento2"]); //Cuenta los elementos de un array, devuelve un entero.
