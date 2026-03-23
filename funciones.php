@@ -10,4 +10,4 @@
 
         strlen("Hola"); //Esta funcion cuenta los caracteres de una cadena, incluyendo espacios, devuelve un entero.
 
-        
+        strpos("",""); //Esta funcion busca texto dentro de otro, devuelve la posicion de la primera ocurrencia o false si no se encuentra.
