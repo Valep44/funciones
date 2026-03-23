@@ -48,4 +48,5 @@
         array_pop($array); //Esta funcion elimina el ultimo elemento de un array y lo devuelve, si el array esta vacio devuelve null.
 
         array_merge([1,2], [3,4]); //Esta funcion fusiona uno o mas arrays, devuelve el array resultante, [1,2,3,4].
-        
+
+        in_array(2, [1,2,3]); //Esta funcion verifica si un valor existe en un array, devuelve true o false.
