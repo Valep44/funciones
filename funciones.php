@@ -7,3 +7,7 @@
         empty(""); //Esta funcion verifica si una variable esta vacia o no, devuelve true o false.
 
         var_dump(5); //Muestra el tipo y valor de una variable.
+
+        strlen("Hola"); //Esta funcion cuenta los caracteres de una cadena, incluyendo espacios, devuelve un entero.
+
+        
